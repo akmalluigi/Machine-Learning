@@ -1,6 +1,6 @@
-This repository is built upon the excellent educational content provided by Siddhardhan. The foundational code, project structures, and datasets across these 52 projects are adapted from his comprehensive hands-on Machine Learning series.
+This repository is built upon the excellent educational content provided by Siddhardhan. The foundational code, project structures, and datasets across these projects are adapted from his comprehensive hands-on Machine Learning series.
 
-YouTube Channel: Siddhardhan
+YouTube Channel: https://www.youtube.com/@Siddhardhan
 
 Original Playlist: Machine Learning Projects
 
